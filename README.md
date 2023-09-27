@@ -1,6 +1,6 @@
-# Node.js template
+# Socket.io implementation
 
-This is a Node.js project.
+This is a Node.js project with Express and SocketIO using CodeSandbox.
 
 Add your [configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) to optimize it for [CodeSandbox](https://codesandbox.io/p/dashboard).
 
